@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(68, 66, 66);
+  font-family: sans-serif;
+}
+
+.container_main {
+  background-color: #fff;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.stle {
+  padding: 15px;
+}
+.strl {
+  margin: 15px;
+  padding: 5px;
+}
+.btn_get_result {
+  padding: 8px;
+  background-color: rgb(17, 145, 242);
+  border: none;
+  border-radius: 4px;
+  color: #fff;
+  cursor: pointer;
+}
